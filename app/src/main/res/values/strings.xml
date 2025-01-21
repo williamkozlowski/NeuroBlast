@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NeuroBlast</string>
+    <string name="daily_neuro_fact">Daily Neuro Fact</string>
+    <string name="refresh">⟳ Refresh</string>
+</resources>
